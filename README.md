@@ -13,8 +13,8 @@
   <img width="12"/>
   <img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" height="40" alt="java logo"/>
   <img width="12"/>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/500px-CSS3_logo_and_wordmark.svg.png?_=20160530175649)" height="40" alt="react logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png?_=20201031132917" height="40" alt="C logo"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"/>
+  <img src="https://images.seeklogo.com/logo-png/18/2/css3-logo-png_seeklogo-186678.png" height="40" alt="CSS logo"/>
   <img width="12"/>
 </div>
